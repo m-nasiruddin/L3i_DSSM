@@ -1,0 +1,5 @@
+\select@language {british}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{PHOCNet architecture}{4}{0}{2}
+\beamer@sectionintoc {3}{Experiments and results}{8}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{10}{0}{4}
